@@ -40,3 +40,76 @@
 .read-the-docs {
   color: #888;
 }
+
+.btn{
+  background-color: black;
+  color: white;
+margin-left: 15px;
+}
+p{
+  padding: 10px;
+  background-color: gray;
+  color: black;
+  font-style: italic;
+  display: inline;
+  
+}
+.p2{
+  padding: 10px;
+  background-color: black;
+  color: white;
+  
+}
+.btn:hover{
+  background-color: rgb(201, 28, 28);
+}
+.btn2{
+  background-color: blue;
+  color: white;
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 20px;
+margin-left: 10px;
+}
+.btn2:hover{
+  background-color: rgb(26, 134, 26);
+}
+
+
+body{
+ background-color: #424242;
+}
+h1{
+  color: white;
+}
+h3{
+  color: white;
+}
+.joke{
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+input{
+  padding: 10px.10px.10px.10px;
+  width: fit-content;
+  font-size: 20px ; 
+  margin-top: 25px;
+ text-align: center;
+}
+.div{
+  box-shadow: 0 2px .5pc #ffffff;
+  padding-top: 10px ;
+  margin: 10px;
+}
+.div:hover{
+    box-shadow:4px 7px 8pc #ffffff ;
+    height: 200px;
+    
+}
+
+.div2{
+  visibility: hidden;
+}
